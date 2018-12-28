@@ -7,8 +7,6 @@
 77777
 99999
 00000
-<<<<<<< HEAD
 issue-404  has been completed
-=======
 unfinished
->>>>>>> dev
+
